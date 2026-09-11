@@ -30,7 +30,7 @@ Always open to conversations about healthcare tech, AI applications, or meaningf
 - **Artificial Intelligence** — Predictive models & intelligent solutions for healthcare
 - **Cybersecurity** — Protecting sensitive patient data with encryption & secure architecture
 
-## Languages
+## 🔧 Languages & Tools
 
 
 ## 📊🟢 GitHub Stats
