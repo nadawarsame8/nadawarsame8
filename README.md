@@ -1,11 +1,11 @@
 Welcome 👋
 # Hi, I'm Nada 👋
 
-**Computer Science Student |  Software Engineer**
+**Computer Science Student |  Junior DevOps Engineer @ Brunel | Aspiring Software Engineer**
 
 ---
 
-## 🎯 About Me
+## 👩🏽‍💻 About Me
 
 I'm a Year 3 Computer Science student building secure, intelligent healthcare applications. I specialize in software engineering, artificial intelligence, and cybersecurity — not as separate disciplines, but as interconnected systems solving real healthcare problems.
 
@@ -14,7 +14,7 @@ I believe technology should serve everyone. If it doesn't, it's not worth buildi
 ---
 ---
 
-## 🔗 Let's Connect
+## 📩 Let's Connect
 
 - **Email:** 
 - **LinkedIn:** 
@@ -23,7 +23,7 @@ I believe technology should serve everyone. If it doesn't, it's not worth buildi
 Always open to conversations about healthcare tech, AI applications, or meaningful collaboration.
 
 ---
-## 🔬 Technical Focus
+## ⚙️ Technical Focus
 
 **Specialisations:**
 - **Software Engineering** — Building scalable, production-ready systems
@@ -45,7 +45,7 @@ All projects are deployed on AWS and documented thoroughly.
 
 ---
 
-## 🌟 Why Healthcare Tech?
+## 🩺💻 Why Healthcare Tech?
 
 Technology isn't neutral. It either includes everyone or it excludes people. In healthcare, that matters — patient outcomes depend on it.
 
@@ -57,7 +57,7 @@ I'm committed to building technology that:
 
 ---
 
-## 📚 Currently Learning
+## 🧠 Currently Learning
 
 - Advanced machine learning applications in healthcare
 - Cloud architecture design patterns
@@ -74,17 +74,11 @@ I'm committed to building technology that:
 
 ---
 
-## 📊 GitHub Stats
+## 📊🟢 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadawarsame&layout=compact&theme=default)
 
 
-
-## 💡 Philosophy
-
-> "Build with intention. Code with purpose. Ship with confidence."
-
----
 
 *Last updated: September 2026*
 <!--
