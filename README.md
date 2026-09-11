@@ -1,7 +1,7 @@
 Welcome 👋
 # Hi, I'm Nada 👋
 
-**Computer Science Student |  Junior DevOps Engineer @ Brunel | Aspiring Software Engineer**
+**Computer Science Student 🎓  |  Junior DevOps Engineer @ Brunel | Aspiring Software Engineer**
 
 ---
 
@@ -30,49 +30,8 @@ Always open to conversations about healthcare tech, AI applications, or meaningf
 - **Artificial Intelligence** — Predictive models & intelligent solutions for healthcare
 - **Cybersecurity** — Protecting sensitive patient data with encryption & secure architecture
 
-**Tech Stack:**
+## Languages
 
----
-
-## 💻 What I'm Working On
-
-Currently building healthcare technology projects focused on:
-- ✅ Accessible healthcare applications
-- ✅ Data-driven patient insights using AI
-- ✅ Secure health information systems
-
-All projects are deployed on AWS and documented thoroughly.
-
----
-
-## 🩺💻 Why Healthcare Tech?
-
-Technology isn't neutral. It either includes everyone or it excludes people. In healthcare, that matters — patient outcomes depend on it.
-
-I'm committed to building technology that:
-- Prioritizes user accessibility
-- Protects patient privacy
-- Solves real healthcare challenges
-- Scales globally
-
----
-
-## 🧠 Currently Learning
-
-- Advanced machine learning applications in healthcare
-- Cloud architecture design patterns
-- Security best practices for patient data
-
----
-
-## 🎓 Background
-
-- **Computer Science Student** at Brunel University London (Year 3)
-- **Accessibility Challenge Winner** — Built accessible web application for neurological disabilities
-- **Mentor** — Debate Mate (teaching communication & critical thinking)
-- **Professional Collaborator** — BTM, industry mentorship programs
-
----
 
 ## 📊🟢 GitHub Stats
 
