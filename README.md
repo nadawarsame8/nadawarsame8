@@ -1,57 +1,49 @@
-Welcome 👋
-# Hi, I'm Nada 👋
+# hi, i'm nada! 👋🏽💗
 
-**Computer Science Student 🎓  |  Junior DevOps Engineer @ Brunel | Aspiring Software Engineer**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadawarsame&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <sub>♡ always learning · always building ♡</sub>
+</p>
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1400\&color=D946EF\&center=true\&vCenter=true\&width=500\&height=35\&lines=Computer+Science+Student+%E2%9C%A6;Junior+DevOps+Engineer+%E2%9C%A6;Building+with+AI%2C+Cloud+%26+Code+%E2%9C%A6)](https://git.io/typing-svg)
+
+**Computer Science Student · Junior DevOps Engineer @ Brunel · Future Software Engineer**
+
+building things at the intersection of **software, AI & cybersecurity** ✦
+
+currently interested in:
+`software engineering` `AI` `DevOps` `cybersecurity` `HealthcareTech`
 
 ---
 
-## 👩🏽‍💻 About Me
+### 🛠️ tech i use
 
-I'm a Year 3 Computer Science student building secure, intelligent healthcare applications. I specialize in software engineering, artificial intelligence, and cybersecurity — not as separate disciplines, but as interconnected systems solving real healthcare problems.
+**languages**
+`Python` `Java` `JavaScript` `SQL`
 
-I believe technology should serve everyone. If it doesn't, it's not worth building.
-
----
----
-
-## 📩 Let's Connect
-
-- **Email:** 
-- **LinkedIn:** 
-- **Portfolio:** 
-
-Always open to conversations about healthcare tech, AI applications, or meaningful collaboration.
+**tools & technologies**
+`Git` `GitHub` `Docker` `Linux` `AWS` `CI/CD`
 
 ---
-## ⚙️ Technical Focus
 
-**Specialisations:**
-- **Software Engineering** — Building scalable, production-ready systems
-- **Artificial Intelligence** — Predictive models & intelligent solutions for healthcare
-- **Cybersecurity** — Protecting sensitive patient data with encryption & secure architecture
+### 💌 let's connect
 
-## 🔧 Languages & Tools
+[LinkedIn](#) · [Portfolio](#) · [Email](#)
 
+---
 
-## 📊🟢 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadawarsame&layout=compact&theme=default" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadawarsame&layout=compact&theme=default)
-
-
-
-*Last updated: September 2026*
-<!--
-**nadawarsame8/nadawarsame8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>♡ always learning · always building ♡</sub>
+</p>
 
